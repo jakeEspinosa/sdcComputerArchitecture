@@ -2,7 +2,10 @@
 
 <h2>Description</h2>
 <p>
-This repository houses the arithmetic logic unit (ALU) that I developed in Logisim as part of the <a href="https://study.com/academy/course/computer-science-306-computer-architecture.html">Study.com Computer Architecture class</a>. I learned so much about Boolean logic, digital circuits, and how processors work. My abstractions over the hardware are far less brittle now as I grasp the fundamentals of how computer hardware operates.
+This repository houses the central processing unit (CPU) that I developed in Logisim as part of the <a href="https://study.com/academy/course/computer-science-306-computer-architecture.html">Study.com Computer Architecture class</a>. It is composed of an arithmetic logic unit (ALU) and a control unit.
+</p>
+<p>
+I learned so much about Boolean logic, digital circuits, and how processors work. My abstractions over the hardware are far less brittle now as I grasp the fundamentals of how computer hardware operates.
 </p>
 
 <h2>Operations</h2>
